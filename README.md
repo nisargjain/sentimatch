@@ -1,2 +1,2 @@
 # sentimatch
-sentiment analysis of twitter posts with multimodal information
+Sentiment Analysis of Twitter posts with multimodal information.
